@@ -5,7 +5,7 @@ click==8.0.3
 deepcomparer==0.1.0
 deepfinder==1.2.0
 dependency-injector==4.37.0
-fastapi==0.95.2
+fastapi==0.109.1
 h11==0.12.0
 idna==3.3
 minio==7.1.1
